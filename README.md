@@ -17,18 +17,16 @@ Alfred本体は[こちら](http://www.alfredapp.com/)よりダウンロードし
 
 ## 利用方法
 
-ブラウザでRemember The Milkとのアプリケーションの連携をします。
+1. ブラウザでRemember The Milkとのアプリケーションの連携をします。
 > Triggers: `rtm setup`
 
-自分のMac側の設定をします。
+2. 自分のMac側の設定をします。
 > Triggers: `rtm install`
 
-
-あとはタスクを入力するだけ。
+3. あとはタスクを入力するだけ。
 > Triggers: `r some-task #due !importance`
 
 * Smart Addの入力例は[こちら](http://www.rememberthemilk.com/help/?ctx=basics.smartadd.whati)
-
 
 ## 用語について
 
