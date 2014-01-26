@@ -3,13 +3,13 @@ Fast Milk
 
 ### はじめに
 このアプリケーションは、Alfredの拡張機能です。  
+![register](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/register.png)  
 Alfredへの入力をRemember The MilkにTODOとして登録ができます。  
 Smart Addを組み合わせることで、タスクの期限や重要度等も簡単に入力することができます。  
-![register](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/register.png)  
-なおこちらはAlfredの*有料ユーザーのアカウントユーザーでないと利用できません。*
+なおこちらはAlfredの**有料ユーザーのアカウントユーザーでないと利用できません。**
 
-#### 利用環境について
-* 下記が必要になります。
+#### 利用環境
+* 下記が必要です。  
  * Alfred v2のPowerPack(有料)利用アカウント  
  * Remember The Milkのアカウント  
 
@@ -38,6 +38,6 @@ Smart Addを組み合わせることで、タスクの期限や重要度等も�
 ![register](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/register.png)
 
 ##### 注釈
-* [Alfredとは](http://www.alfredapp.com/#features)
+######[Alfredとは](http://www.alfredapp.com/#features)
 * [Alfred PowerPackとは](http://www.alfredapp.com/powerpack/)
 * [Smart Addとは](http://www.rememberthemilk.com/help/?ctx=basics.smartadd.whati)
