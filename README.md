@@ -5,6 +5,7 @@ Fast Milk
 このアプリケーションは、Alfredの拡張機能です。  
 Alfredへの入力をRemember The MilkにTODOとして登録ができます。  
 Smart Addを組み合わせることで、タスクの期限や重要度等も簡単に入力することができます。  
+![register](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/register.png)  
 なおこちらはAlfredの*有料ユーザーのアカウントユーザーでないと利用できません。*
 
 #### 利用環境について
@@ -20,17 +21,20 @@ Smart Addを組み合わせることで、タスクの期限や重要度等も�
 ダウンロードしたファイルを解凍してFast Milk.alfredworkflowというファイルをダブルクリックして、Alfredにインストールしたら準備は完了です。  
 
 3. ブラウザでRemember The Milkとのアプリケーションの認証設定をする。  
-> Triggers: `rtm setup`
+> Triggers: `rtm setup`  
+
 ![setup](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/setup.png)
 
 4. Alfredで上記で行った認証設定を登録します。  
-> Triggers: `rtm install`
+> Triggers: `rtm install`  
+
 ![install](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/install.png)
 
 #### 使い方
 * AlfredにTODOを入力する。Smart Addも利用可能です。  
 
-> Triggers: `r 牛乳を買う #shopping ^today !3`
+> Triggers: `r 牛乳を買う #shopping ^today !3`  
+
 ![register](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/register.png)
 
 ##### 注釈
