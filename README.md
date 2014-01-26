@@ -26,9 +26,7 @@ Smart Addを組み合わせることで、タスクの期限や重要度等も�
 > Triggers: `rtm install`
 
 #### 使い方
-* AlfredにTODOを入力する。  
-* Smart Addも利用可能です。  
-
+* AlfredにTODOを入力する。Smart Addも利用可能です。  
 > Triggers: `r 牛乳を買いにいく。`
 
 ##### 注釈
