@@ -38,6 +38,6 @@ Smart Addを組み合わせることで、タスクの期限や重要度等も�
 ![register](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/register.png)
 
 ##### 注釈
-######[Alfredとは](http://www.alfredapp.com/#features)
+* [Alfredとは](http://www.alfredapp.com/#features)
 * [Alfred PowerPackとは](http://www.alfredapp.com/powerpack/)
-* [Smart Addとは](http://www.rememberthemilk.com/help/?ctx=basics.smartadd.whati)
+* [Smart Addとは](http://www.rememberthemilk.com/help/?ctx=basics.smartadd.whatis)
