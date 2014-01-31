@@ -23,7 +23,6 @@ Double Click Fast Milk.alfredworkflow
 
 ![setup](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/setup.png)
 
-
 4. Installation Authorization on Your Alfred.  
 > Triggers: `rtm install`  
 
