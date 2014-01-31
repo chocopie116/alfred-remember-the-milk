@@ -19,12 +19,13 @@ Latest Zip or Tar Formatted File is [Here](https://github.com/chocopie116/alfred
 Double Click Fast Milk.alfredworkflow  
 
 3. Authorize Your Web Remember The Milk Account.  
-> Triggers: `rtm setup`  
 ![setup](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/setup.png)  
+> Triggers: `rtm setup`  
+
 4. Installation Authorization on Your Alfred.  
+![install](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/install.png)  
 > Triggers: `rtm install`  
 
-![install](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/install.png)
 
 ### How to use
 * Input some tasks with Alfred. You also use Smart Add.  
