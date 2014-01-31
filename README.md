@@ -1,43 +1,42 @@
 Fast Milk
 ========================
 
-### はじめに
-このアプリケーションは、Alfredの拡張機能です。  
+### Introduction
+This Application is Alfred Workflows.  
 ![register](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/register.png)  
-Alfredへの入力をRemember The MilkにTODOとして登録ができます。  
-Smart Addを組み合わせることで、タスクの期限や重要度等も簡単に入力することができます。  
-なおこちらはAlfredの**有料ユーザーのアカウントユーザーでないと利用できません。**
+You can register TODO
+* very quickly with Alfred Input Interface.  
+* very easily tagging with Smart Add.  
 
-#### 利用環境
-* 下記が必要です。  
- * Alfred v2のPowerPack(有料)利用アカウント  
+
+#### Preparation
+ * Alfred v2 **Alfred Powerpack Account**  
  * Remember The Milkのアカウント  
 
-#### 準備
-1. 拡張機能をダウンロードします。  
-当プラグインの最新版を[こちら](https://github.com/chocopie116/alfred-remember-the-milk/releases)よりzip形式でダウンロードしてください。  
+1. Download Workflows(Extension)  
+Latest Zip or Tar Formatted File is [Here](https://github.com/chocopie116/alfred-remember-the-milk/releases).  
 
-2. 拡張機能をインストールする。  
-ダウンロードしたファイルを解凍してFast Milk.alfredworkflowというファイルをダブルクリックして、Alfredにインストールしたら準備は完了です。  
+2. Install on Alfred  
+Double Click Fast Milk.alfredworkflow  
 
-3. ブラウザでRemember The Milkとのアプリケーションの認証設定をする。  
+3. Authorize Your Web Remember The Milk Account.  
 > Triggers: `rtm setup`  
 
 ![setup](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/setup.png)
 
-4. Alfredで上記で行った認証設定を登録します。  
+4. Installation Authorization on Your Alfred.  
 > Triggers: `rtm install`  
 
 ![install](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/install.png)
 
-#### 使い方
-* AlfredにTODOを入力する。Smart Addも利用可能です。  
+#### How to use
+* Input some tasks with Alfred. You also use Smart Add.  
 
-> Triggers: `r 牛乳を買う #shopping ^today !3`  
+> Triggers: `r buy milk #shopping ^today !3 =30minutes`  
 
 ![register](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/register.png)
 
-##### 注釈
-* [Alfredとは](http://www.alfredapp.com/#features)
-* [Alfred PowerPackとは](http://www.alfredapp.com/powerpack/)
-* [Smart Addとは](http://www.rememberthemilk.com/help/?ctx=basics.smartadd.whatis)
+##### Note
+* [What's Alfred?](http://www.alfredapp.com/#features)
+* [What's Alfred PowerPack?](http://www.alfredapp.com/powerpack/)
+* [What's Smart Add?](http://www.rememberthemilk.com/help/?ctx=basics.smartadd.whatis)
