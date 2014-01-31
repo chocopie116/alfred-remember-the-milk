@@ -20,9 +20,7 @@ Double Click Fast Milk.alfredworkflow
 
 3. Authorize Your Web Remember The Milk Account.  
 > Triggers: `rtm setup`  
-
-![setup](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/setup.png)
-
+![setup](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/setup.png)  
 4. Installation Authorization on Your Alfred.  
 > Triggers: `rtm install`  
 
