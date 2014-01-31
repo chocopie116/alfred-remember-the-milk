@@ -29,10 +29,8 @@ Double Click Fast Milk.alfredworkflow
 
 ### How to use
 * Input some tasks with Alfred. You also use Smart Add.  
-
+![register](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/register.png)  
 > Triggers: `r buy milk #shopping ^today !3 =30minutes`  
-
-![register](https://dl.dropboxusercontent.com/u/2934570/Fast%20Milk/register.png)
 
 #### Note
 * [What's Alfred?](http://www.alfredapp.com/#features)
